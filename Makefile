@@ -12,7 +12,7 @@
 
 .PHONY: all clean fclean re
 
-NAME = libft.a
+NAME = libftprintf.a
 
 HEADER = includes/*.h
 
